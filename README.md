@@ -28,39 +28,6 @@ Spendly is a modern web application designed to help users manage their finances
 - **State Management**: Context API / Hooks
 - **Code Quality**: ESLint
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v20 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/mariopxz/spendly.git
-cd spendly
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Start the development server
-```bash
-npm run dev
-```
-
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
-
-### Build for Production
-
-```bash
-npm run build
-```
-
 ## Project Structure
 
 ```
@@ -122,39 +89,6 @@ Spendly es una aplicación web moderna diseñada para ayudarte a gestionar tus f
 - **Estilos**: Tailwind CSS
 - **Gestión de Estado**: Context API / Hooks
 - **Calidad de Código**: ESLint
-
-## Cómo Empezar
-
-### Requisitos Previos
-
-- Node.js (v20 o superior)
-- npm o yarn
-
-### Instalación
-
-1. Clona el repositorio
-```bash
-git clone https://github.com/mariopxz/spendly.git
-cd spendly
-```
-
-2. Instala las dependencias
-```bash
-npm install
-```
-
-3. Inicia el servidor de desarrollo
-```bash
-npm run dev
-```
-
-4. Abre [http://localhost:5173](http://localhost:5173) en tu navegador
-
-### Compilar para Producción
-
-```bash
-npm run build
-```
 
 ## Estructura del Proyecto
 
